@@ -4,7 +4,7 @@
 
 I'm a person who is always willing to learn and do new things. I have a great passion for software development, especially websites, so I want to be a web developer.
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/duykhang.tong.9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/duy-khang-tống-142093228)
 
