@@ -1,8 +1,8 @@
-<img src="github_banner.png" alt="GitHub Banner" width="100%" />
+<img src="banner.png" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
 
-I'm currently a final-year student at Can Tho University. I'm a person who is always willing to learn and do new things. I have a great passion for software development, especially websites, so I want to be a back-end developer or a fullstack developer if I can.
+I'm a person who is always willing to learn and do new things. I have a great passion for software development, especially websites, so I want to be a web developer.
 
 ## 🌐 Socials:
 
